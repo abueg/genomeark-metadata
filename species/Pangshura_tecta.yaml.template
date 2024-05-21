@@ -1,0 +1,14 @@
+species:
+  name: Pangshura tecta
+  short_name: rPanTec
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: rPanTec1
+    biosample_id:
+    description:
+    provider:

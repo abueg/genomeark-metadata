@@ -1,0 +1,14 @@
+species:
+  name: Treron vernans
+  short_name: bTreVer
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: bTreVer1
+    biosample_id:
+    description:
+    provider:

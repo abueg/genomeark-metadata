@@ -1,0 +1,14 @@
+species:
+  name: Thalassoma bifasciatum
+  short_name: fThaBif
+  common_name:
+  taxon_id:
+  order:
+    name:
+  family:
+    name:
+  individuals:
+  - short_name: fThaBif1
+    biosample_id:
+    description:
+    provider:
